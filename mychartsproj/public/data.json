@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Taran",
+        "Obtained Marks": 400,
+        "Total Marks": 800,
+        "Age": 18,
+        "Height": 5.6
+    },
+    {
+        "Name": "Kamal",
+        "Obtained Marks": 300,
+        "Total Marks": 800,
+        "Age": 21,
+        "Height": 5.6
+    },
+    {
+        "Name": "Manjot",
+        "Obtained Marks": 700,
+        "Total Marks": 800,
+        "Age": 20,
+        "Height": 5.6
+    },
+    {
+        "Name": "Ritik",
+        "Obtained Marks": 400,
+        "Total Marks": 800,
+        "Age": 15,
+        "Height": 5.6
+    },
+    {
+        "Name": "Raman",
+        "Obtained Marks": 500,
+        "Total Marks": 800,
+        "Age": 24,
+        "Height": 5.6
+    }
+]
